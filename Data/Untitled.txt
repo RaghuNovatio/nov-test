@@ -1,0 +1,11 @@
+S.No Data1 Data2 Condition Result Exception Log
+1 56 89 Add
+2 25 8 Sub
+3 25 3.15 Div
+4 90 9 Mod
+5 25 5 MOd
+6 86 3.58 Mul
+7 58 79 Add
+8 245 5 Div
+9 3.56 60 Mul
+10 60 8 Mod
